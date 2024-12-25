@@ -29,9 +29,9 @@ Aria-UI sets new state-of-the-art results on offline and online agent benchmarks
 🏆 **1st place** on **AndroidWorld** with **44.8%** task success rate and  
 🥉 **3rd place** on **OSWorld** with **15.2%** task success rate (Dec. 2024).
 
-![Performance Spider Plot](assets/performance_spider.pdf)
-
-![Aria-UI Overview](assets/aria_ui_framework_v4.pdf)
+<div align="center">
+    <img src="assets/overall.png" alt="Aria-UI Overview" style="max-height: 300px;">
+</div>
 
 ## 🚀 Quick Start
 
