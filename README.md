@@ -13,6 +13,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/48c61813-7f63-4985-a3c9-0e325ca764fe
+
 ## 🌇 Overview
 
 ✨ **Versatile Grounding Instruction Understanding:**  
@@ -174,3 +176,10 @@ If you find our work helpful, please consider citing:
 ## Acknowledgments
 
 We thank [Tianbao Xie](https://tianbaoxie.com), [Yiheng Xu](https://yihengxu.com) for their valuable discussion and suggestions.
+
+## More demos
+
+
+https://github.com/user-attachments/assets/cf7f26bf-d5ad-4146-9334-bb64a3ab48a6
+
+https://github.com/user-attachments/assets/1a5bfd18-0a1d-49d7-99a6-597329b0812d
