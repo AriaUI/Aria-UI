@@ -8,7 +8,9 @@
 [🤗 Aria-UI Models](https://huggingface.co/Aria-UI/Aria-UI-base) •
 [🤗 Aria-UI Dataset](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data) •
 [🌐 Project Page](https://ariaui.github.io) •
-[📝 Paper](https://arxiv.org/abs/2412.16256)
+
+[📝 Paper](https://arxiv.org/abs/2412.16256) •
+[🗃️ Aria-UI at ModelScope](https://modelscope.cn/models/AriaUI/Aria-UI/) 
 </div>
 
 ---
@@ -18,6 +20,8 @@
 
 - **[2025-01-10]** We are excited to release the **M3A Agent powered by Aria-UI**, for **AndroidWorld**! Experience enhanced task success rates and seamless integration with the latest in grounding instruction understanding. Check it out under `AndroidWorld/`.
 
+
+https://github.com/user-attachments/assets/48c61813-7f63-4985-a3c9-0e325ca764fe
 
 ## 🌇 Overview
 
@@ -180,3 +184,10 @@ If you find our work helpful, please consider citing:
 ## Acknowledgments
 
 We thank [Tianbao Xie](https://tianbaoxie.com), [Yiheng Xu](https://yihengxu.com) for their valuable discussion and suggestions.
+
+## More demos
+
+
+https://github.com/user-attachments/assets/cf7f26bf-d5ad-4146-9334-bb64a3ab48a6
+
+https://github.com/user-attachments/assets/1a5bfd18-0a1d-49d7-99a6-597329b0812d
