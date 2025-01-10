@@ -13,6 +13,12 @@
 
 ---
 
+
+## 📰 News
+
+- **[2025-01-10]** We are excited to release the **M3A Agent powered by Aria-UI**, for **AndroidWorld**! Experience enhanced task success rates and seamless integration with the latest in grounding instruction understanding. Check it out under `AndroidWorld/`.
+
+
 ## 🌇 Overview
 
 ✨ **Versatile Grounding Instruction Understanding:**  
