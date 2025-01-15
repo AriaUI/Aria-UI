@@ -46,7 +46,7 @@ Aria-UI sets new state-of-the-art results on offline and online agent benchmarks
 ## 🚀 Quick Start
 
 ### Installation
-```
+```bash
 pip install transformers==4.45.0 accelerate==0.34.1 sentencepiece==0.2.0 torchvision requests torch Pillow
 pip install flash-attn --no-build-isolation
 # For better inference performance, you can install grouped-gemm, which may take 3-5 minutes to install
@@ -54,10 +54,15 @@ pip install grouped_gemm==0.1.6
 ```
 
 ### Inference with vllm (strongly recommended)
-First, make sure you install the latest version of vLLM so that it supports Aria-UI
+First, make sure you install the appropriate version (for example, `vllm==0.6.6.dev3+g866fa455`) of vLLM so that it supports Aria-UI
+```bash
+export VLLM_COMMIT=866fa4550d572f4ff3521ccf503e0df2e76591a1 # use full commit hash from the main branch
+pip install https://wheels.vllm.ai/${VLLM_COMMIT}/vllm-1.0.0.dev-cp38-abi3-manylinux1_x86_64.whl
+```
+<!-- First, make sure you install the latest version of vLLM so that it supports Aria-UI
 ```
 pip install https://vllm-wheels.s3.us-west-2.amazonaws.com/nightly/vllm-1.0.0.dev-cp38-abi3-manylinux1_x86_64.whl
-```
+``` -->
 
 Here is a code snippet for Aria-UI with vllm.
 ```python
