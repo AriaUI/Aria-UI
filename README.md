@@ -6,6 +6,7 @@
 
 [🤗 Aria-UI Demo (Try it out!)](https://huggingface.co/spaces/Aria-UI/Aria-UI) •
 [🤗 Aria-UI Models](https://huggingface.co/Aria-UI/Aria-UI-base) •
+[🤗 Aria-UI Context-aware Models](https://huggingface.co/Aria-UI/Aria-UI-context-aware) •
 [🤗 Aria-UI Dataset](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data) •
 [🌐 Project Page](https://ariaui.github.io) •
 
@@ -17,6 +18,7 @@
 
 
 ## 📰 News
+- **[2025-01-23]** We released the context-aware version of Aria-UI! Check it at [🤗 Aria-UI Context-aware Models](https://huggingface.co/Aria-UI/Aria-UI-context-aware). It typically brings stronger performances under dynamic agent tasks like `AndroidWorld` and `OSWorld`.
 
 - **[2025-01-10]** We are excited to release the **M3A Agent powered by Aria-UI**, for **AndroidWorld**! Experience enhanced task success rates and seamless integration with the latest in grounding instruction understanding. Check it out under `AndroidWorld/`.
 
