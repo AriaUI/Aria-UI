@@ -8,8 +8,8 @@
 [🤗 Aria-UI Models](https://huggingface.co/Aria-UI/Aria-UI-base) •
 [🤗 Aria-UI Context-aware Models](https://huggingface.co/Aria-UI/Aria-UI-context-aware) •
 [🤗 Aria-UI Dataset](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data) •
-[🌐 Project Page](https://ariaui.github.io) •
 
+[🌐 Project Page](https://ariaui.github.io) •
 [📝 Paper](https://arxiv.org/abs/2412.16256) •
 [🗃️ Aria-UI at ModelScope](https://modelscope.cn/models/AriaUI/Aria-UI/) 
 </div>
